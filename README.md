@@ -4,7 +4,7 @@ Weather Api Integration
 
 *COMPANY*: Codtech it solutions
 
-*Name*: Niharika Derangula
+*Name*: zaheen ahamd 
 
 *INTERN ID*: CT12NSI
 
